@@ -1,0 +1,39 @@
+25
+1:C:What is the citizen of Turkmenistan called?:Turkmenistani:Turkmenian:Turkmen:Turkmenistanan
+1:A:When did turkey gain independence?:1923:1933:1913:1914
+1:B:Who is the current president of turkey?:Turgut Özal:Recep tayyip Erdogan:Abdullah Gül:Kenan Evren
+1:B:People of which race is to be found the most in Trinidad and Tobago?:East Indian:African:American:Malaysian
+1:D:What is the official language in Trinidad and Tobago?:Malay:Spanish:French:English
+1:A:Who were the first people to settle in Tonga?:Polynesians:Fijians:Samoans:Hawaiian
+1:C:What are the two major industries of Tonga?:Farming and mining of metals:Fishing and vanilla beans:Fishing and tourism:Farming and tourism
+1:A:In which year did Tunisia Gain Independence?:1956:1990:2020:1820
+1:D:What is the capital of Tunisia?:Nairobi:Kuala Lampur:New Dehli:Tunis
+2:A:Which city of Turkmenistan does this building locates?:Ashgabat.jpg:Ashgabat:Serdar:Hazar:Mary
+2:C:What is the name of this building?:hotel.jpg:Ashgabat TV Tower:Yyds Hotel:Yyldyz Hotel:Burj Khalifa
+2:C:What is the name of this flower?:chaconia.jpg:Sunflower:Rose:Chaconia:Water lily
+2:A:What is the city called?:portofspain.jpg:Port of Spain:Kuala Lampur:Doha:Sydney
+2:A:What is the name of this building located in turkey?:skyland.jpg:Skyland İstanbul:Istanbul Sapphire:İstanbul Tower:Ciftci Towers
+2:B:When did the prince of Tonga mentioned in the above pic died?:prince.jpg:12 December 2009:18 March 2012:10 January 2017:4 dec 2020
+2:A:Where is the Royal Palace of Tonga situated at?:palace.jpg:Nuku’alofa:Niuas:Eua:Tongatapu
+2:C:Where is this monument Located?:Bourghiba.jpg:Taj Mahal:Bourghiba Mausoleum:Statue Of Liberty:Eiffel Tower
+3:D:Which of the flags is the flag of Turkmenistan?:flag1.jpg:flag2.jpg:flag3.png:flag4.png
+3:B:Which of the Olympic stadiums below belongs to Turkmenistan?:stadium1.jpg:stadium2.jpg:stadium3.jpg:stadium4.jpg
+3:D:What is the national animal of Trinidad and Tobago?:animal1.jpg:animal2.jpg:animal3.jpg:animal4.jpg
+3:A:Who was the first king of Tonga?:king1.jpg:king2.jpg:king3.jpg:king4.jpg
+3:A:What is the national animal of turkey?:national1.jpg:national2.jpg:national3.jpg:national4.jpg
+3:A:What is turkey famous for?:famous1.jpg:famous2.jpg:famous3.jpg:famous4.jpg
+3:A:Which one of these is Hannibal?:Hannibal.jpg:Barrack.jpg:Trump.jpg:Modi.jpg
+3:B:Which one of these is Abdellatif Kechiche?:TomHanks.jpg:Abdellatif.jpg:MorganFreeman.jpg:AlPacino.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
